@@ -1,0 +1,5 @@
+text,clean_text,label,label_encoded,amazing,book,enjoy,football,great,habit,love,movie,playing,reading,sport,watching
+I love playing football!!!,love playing football,sports,2,0.0,0.0,0.0,0.48693426407352264,0.0,0.0,0.6176143709756019,0.0,0.6176143709756019,0.0,0.0,0.0
+Movies are amazing and I enjoy watching them.,movie amazing enjoy watching,entertainment,1,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.5
+Football is a great sport.,football great sport,sports,2,0.0,0.0,0.0,0.5264054336099155,0.5264054336099155,0.0,0.0,0.0,0.0,0.0,0.6676785446095399,0.0
+Reading books is a great habit.,reading book great habit,education,0,0.0,0.5254727492640658,0.0,0.0,0.41428875116588965,0.5254727492640658,0.0,0.0,0.0,0.5254727492640658,0.0,0.0
